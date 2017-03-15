@@ -24,6 +24,8 @@ import org.xml.sax.InputSource;
 import org.xml.sax.SAXException;
 
 /**
+ * Biblioteca para manipulação de XML.
+ * 
  * @author Paulo R. Kraemer <paulork10@gmail.com>
  */
 public class XMLUtils {
