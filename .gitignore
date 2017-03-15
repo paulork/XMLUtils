@@ -1,1 +1,7 @@
-/target/
+/target/classes/*.netbeans_automatic_build
+/target/classes/br/com/paulork/xmlutils/*.class
+/target/maven-archiver/*.properties
+/target/surefire-reports/*.xml
+/target/surefire-reports/*.txt
+/target/test-classes/*.netbeans_automatic_build
+/target/test-classes/br/com/paulork/xmlutils/*.class
